@@ -1,4 +1,4 @@
-# Task 3 – Feature Encoding & Scaling (Adult Income Dataset)
+# Task 4 – Feature Encoding & Scaling (Adult Income Dataset)
 
 ## Dataset
 - Adult Income Dataset (Adult_Income_Dataset.csv)
